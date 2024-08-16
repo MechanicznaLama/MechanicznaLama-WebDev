@@ -1,2 +1,2 @@
 First js
-<a href="/Boilerplate/Index.html"> <strong>MAIN</strong></a>
+<a href="../Index.html"> <strong>MAIN</strong></a>
